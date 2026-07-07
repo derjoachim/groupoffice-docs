@@ -1,5 +1,5 @@
-Manual for Group-Office
-=======================
+Manual for GroupOffice
+======================
 
 This is the source repository for the manual:
 
